@@ -16,4 +16,11 @@ Before doing commit first time we need to execute these below commands(its execu
 3) Check the status of files(commited/not commited)
      git status
 
-4) git add -A 
+4) Add all the files to staging area  
+    git add -A 
+
+5) Commit the code into git repository(local repo)
+    git commit -m "first commit" 
+
+6) Push the code from git ---to---> github repository 
+git push -u origin master

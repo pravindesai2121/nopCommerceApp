@@ -208,3 +208,14 @@
 01/25/2026 01:41:29 PM : INFO : ************** Providing customer info ***************
 01/25/2026 01:41:30 PM : INFO : ************** Verifying Login test *******************
 01/25/2026 01:42:46 PM : INFO : ************** Login test is passed *******************
+01/26/2026 11:59:35 AM : INFO : ************** Test _003_AddCustomer *****************
+01/26/2026 12:00:25 PM : INFO : ************** Login Successful ***************
+01/26/2026 12:00:25 PM : INFO : ************** Starting Add Customer Test ***************
+01/26/2026 12:00:42 PM : INFO : ************** Providing customer info ***************
+01/26/2026 12:00:44 PM : INFO : ************** Verifying Login test *******************
+01/26/2026 12:01:33 PM : INFO : ************** Login test is passed *******************
+01/26/2026 12:07:26 PM : INFO : ************** Test _003_AddCustomer *****************
+01/26/2026 12:08:16 PM : INFO : ************** Login Successful ***************
+01/26/2026 12:08:16 PM : INFO : ************** Starting Add Customer Test ***************
+01/26/2026 12:08:24 PM : INFO : ************** Verifying Login test *******************
+01/26/2026 12:09:15 PM : INFO : ************** Login test is passed *******************

@@ -82,7 +82,7 @@ class AddCustomer():
         self.driver.find_element(By.XPATH,self.txtCompanyName_xpath).send_keys(companyName)
 
     def setIsTaxExempt(self):
-        self.driver.find_element(By.XPATH,self.IsTaxExcempt_id).click()
+        self.driver.find_element(By.ID,self.IsTaxExcempt_id).click()
 
     def setCustomerRoles(self, role):
         self.driver.find_element(By.XPATH,self.txtCustomerRoles_xpath).click()
@@ -112,7 +112,7 @@ class AddCustomer():
 
 
     def setCheckboxActive(self):
-        self.driver.find_element_by_xpath(self.CheckboxActive_xpath).click()
+        self.driver.find_element(By.XPATH,self.CheckboxActive_xpath).click()
 
     def setCustomerMustChangePassword(self):
         self.driver.find_element(By.XPATH,self.CustoomerMustChangePassword_Checkbox_xpath).click()
